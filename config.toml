@@ -1,0 +1,6 @@
+baseURL = "http://wwww.circlevilleonline.com/"
+languageCode = "en-us"
+title = "Circleville Online"
+theme = "hoguej-mediumish"
+copyright = "Circleville Online"
+sectionPagesMenu = "main"
