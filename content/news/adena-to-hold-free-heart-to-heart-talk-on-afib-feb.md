@@ -6,6 +6,8 @@ lastmod: 2018-02-20T12:00:00+00:00
 image: "/images/posts/DrJohnKeller.jpg"
 type: "post"
 comments: false
+aliases:
+  - /adena-to-hold-free-heart-to-heart-talk-on-afib-feb
 ---
 CHILLICOTHE (Feb. 19, 2019) – If you experience uneven heartbeats that last for several minutes, you could have atrial fibrillation (AFib). This is just one of the conditions Adena Cardiologist Dr. John Keller will discuss during a free heart-to-heart talk on Feb. 28. Understand your risks, the symptoms of AFib, the latest preventive strategies and the treatment options to keep your heart beating strong.
 

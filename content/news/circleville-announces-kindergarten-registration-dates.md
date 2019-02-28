@@ -6,6 +6,8 @@ lastmod: 2018-02-23T16:00:00+00:00
 image: "/images/posts/circleville_kindergarten_signing.jpg"
 type: "post"
 comments: false
+aliases:
+  - /circleville-announces-kindergarten-registration-dates
 ---
 CIRCLEVILLE - Kindergarten registration for the 2019-2020 school year will take place April 8th-11th on campus by appointment only at 740-474-4340. Circleville City Schools administrative staff will be on site at PICCA Head Start of Circleville March 13th-14th.
  

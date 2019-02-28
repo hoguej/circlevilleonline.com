@@ -6,6 +6,8 @@ lastmod: 2018-02-20T14:00:00+00:00
 image: "/images/posts/2019_circleville_boys_basketball_team.webp"
 type: "post"
 comments: false
+aliases:
+  - /circleville-boys-basketball-beats-new-lexington-in-overtime
 ---
 Multiple sources are reporting that the Circleville Tigers boys basketball team beat out New Lexington 58-57 in an exciting come-from-behind overtime game in Logan, Ohio tonight. Our hometown team will face Sheridan for the sectional title at 3 PM on Saturday.
 

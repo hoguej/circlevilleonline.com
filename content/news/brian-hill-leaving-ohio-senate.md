@@ -6,6 +6,8 @@ lastmod: 2018-02-21T13:00:00+00:00
 image: "/images/posts/brian_hill.jpg"
 type: "post"
 comments: false
+aliases:
+  - /brian-hill-leaving-ohio-senate
 ---
 The Zanesville Time Recorder is reporting that Brian Hill will be stepping down from the Ohio Senate to fill a CEO position at Guernsey-Muskingum Electric Cooperative.
 

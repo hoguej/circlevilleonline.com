@@ -6,6 +6,8 @@ lastmod: 2018-02-20T13:00:00+00:00
 image: "/images/posts/dave_yost.jpg"
 type: "post"
 comments: false
+aliases:
+  - /attorney-general-yost-seeks-to-recover-nearly-16m-in-prescription-overcharges
 ---
 **Action is First Step to Recover Overcharges from Pharmacy Benefit Managers**
 

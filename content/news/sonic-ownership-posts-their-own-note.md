@@ -6,6 +6,8 @@ lastmod: 2018-02-23T17:00:00+00:00
 image: "/images/posts/sonic3.jpg"
 type: "post"
 comments: false
+aliases:
+  - /sonic-ownership-posts-their-own-note
 ---
 ![](/images/posts/sonic4.jpg)
 

@@ -6,6 +6,8 @@ lastmod: 2018-02-25T12:00:00+00:00
 image: "/images/posts/circleville_city_hall.jpg"
 type: "post"
 comments: false
+aliases:
+  - /circleville-city-facing-709k-budget-deficit
 ---
 By Jonathan Hogue
 

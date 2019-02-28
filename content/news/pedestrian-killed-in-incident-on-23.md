@@ -6,6 +6,8 @@ lastmod: 2018-02-24T12:00:00+00:00
 image: "/images/posts/accident_report.jpg"
 type: "post"
 comments: false
+aliases:
+  - /pedestrian-killed-in-incident-on-23
 ---
 PICKAWAY COUNTY - The Pickaway County Sheriff's Department is reporting that Christopher Campbell was killed yesterday when he was struck by a woman driving northbound on US-23.
 

@@ -6,6 +6,8 @@ lastmod: 2018-02-21T15:00:00+00:00
 image: "/images/posts/mike_dewine.jpg"
 type: "post"
 comments: false
+aliases:
+  - /dewine-to-propose-18-cent-gas-tax
 ---
 COLUMBUS, Ohio - Governor Mike DeWine is expected to propose an 18 cent per gallon tax increase to the General Assembly.
 
