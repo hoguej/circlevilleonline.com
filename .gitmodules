@@ -1,6 +1,0 @@
-[submodule "themes/mediumish"]
-	path = themes/mediumish
-	url = https://github.com/lgaida/mediumish-gohugo-theme.git
-[submodule "themes/hoguej-mediumish"]
-	path = themes/hoguej-mediumish
-	url = git@github.com:hoguej/mediumish-gohugo-theme.git
