@@ -3,9 +3,11 @@ title: Circleville Sonic not closed by health department
 date: 2018-02-28T14:00:00+00:00
 publishdate: 2018-02-28T14:00:00+00:00
 lastmod: 2018-02-28T14:00:00+00:00
+image: "/images/posts/sonic.jpg"
 type: "post"
 comments: false
 ---
+(image from sonicdrivein.com)
 
 It's been a volatile week for Sonic of Circleville. Last Friday, February 22, [we reported](/news/sonics-close-unexpectedly-in-lancaster-circleville-and-grove-city/) that Circleville Sonic employees quit their jobs and shutdown the store for the weekend. Yesterday, reports were circulating on social media that Sonic in Circleville had been shut down yesterday by the health department. Although, the restaurant was closed over the weekend due to the employee walk out, according to Sam Neill, Emergency Response Coordinator at the Pickaway County General Health District, there was never a serious issue with their health and food safety inspection.
 
