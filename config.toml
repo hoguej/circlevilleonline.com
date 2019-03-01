@@ -4,7 +4,8 @@ title = "Circleville Online"
 theme = "hoguej-mediumish"
 copyright = "Circleville Online"
 sectionPagesMenu = "main"
-summaryLength = 25
+summaryLength = 50
+googleAnalytics = "UA-113547599-3"
 
 [params.social]
   facebook = "CirclevilleOnline"
