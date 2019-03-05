@@ -1,8 +1,8 @@
 ---
 title: "Sonics close unexpectedly in Lancaster, Circleville, and Grove City"
-date: 2018-02-23T15:00:00+00:00
-publishdate: 2018-02-23T15:00:00+00:00
-lastmod: 2018-02-23T15:00:00+00:00
+date: 2019-02-23T15:00:00+00:00
+publishdate: 2019-02-23T15:00:00+00:00
+lastmod: 2019-02-23T15:00:00+00:00
 image: "/images/posts/sonic1.jpg"
 type: "post"
 comments: false
