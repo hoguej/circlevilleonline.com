@@ -3,7 +3,7 @@ title: "Circleville City to discuss budget at finance committee meeting"
 date: 2019-03-05T08:00:00+00:00
 publishdate: 2019-03-05T08:00:00+00:00
 lastmod: 2019-03-05T08:00:00+00:00
-image: "/images/posts/city_hall.jpg"
+image: "images/posts/circleville_city_hall_close.jpg"
 type: "post"
 comments: false
 ---
