@@ -13,4 +13,4 @@ By Brian Roseberry, New Hope Athletic Director, 3/6/2019
 
 CIRCLEVILLE - New Hope ladies basketball takes 1st place in the OCSAA state tournament. The boys basketball team finishes in 4th.
 
-![](/images/posts/new_hope_girls_basketball_results_2019.jpg)
+![](/images/posts/new_hope_boys_basketball_results_2019.jpg)
