@@ -9,5 +9,8 @@ comments: false
 aliases:
   - /adena-to-hold-free-heart-to-heart-talk-on-afib-feb
 ---
+By Brian Roseberry, New Hope Athletic Director, 3/6/2019
 
-![](new_hope_girls_basketball_results_2019.jpg)
+CIRCLEVILLE - New Hope ladies basketball takes 1st place in the OCSAA state tournament. The boys basketball team finishes in 4th.
+
+![](/images/posts/new_hope_girls_basketball_results_2019.jpg)
