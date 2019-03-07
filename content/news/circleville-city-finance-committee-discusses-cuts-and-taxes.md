@@ -1,13 +1,15 @@
 ---
 title: "Circleville City facing $709k budget deficit"
-date: 2019-03-06T23:00:00+00:00
-publishdate: 2019-03-06T23:00:00+00:00
-lastmod: 2019-03-06T23:00:00+00:00
-image: "/images/posts/circleville_city_hall.jpg"
+date: 2019-03-06T22:00:00+00:00
+publishdate: 2019-03-06T22:00:00+00:00
+lastmod: 2019-03-06T22:00:00+00:00
+image: "/images/posts/council-1.jpg"
 type: "post"
 comments: false
 ---
-On Tuesday night, the Circleville City Finance Committee met with the auditor and department heads to discuss a proposed budget cut of $2.9 million and propose a half percent tax levy which would raise $1.5 million for the police and fire departments. If approved by City Council, the tax levy would appear on a special election ballot on August 6th.
+3/6/2019
+
+CIRCLEVILLE - On Tuesday night, the Circleville City Finance Committee met with the auditor and department heads to discuss a proposed budget cut of $2.9 million and propose a half percent tax levy which would raise $1.5 million for the police and fire departments. If approved by City Council, the tax levy would appear on a special election ballot on August 6th.
 
 ## Who
 In attendance of last night’s Circleville Finance Committee meeting were Finance Committee Chair Barry Keller, Council Members Todd Brady, Michelle Blanton, Sheri Theis, Council President David Crawford, Clerk Linda Chancey, Auditor Gayle Spangler, Public Service Director Don Sherman, and Police Chief Shawn Baer.
@@ -54,3 +56,16 @@ Keller says that financial discipline and creative thinking are required to navi
 Tom Spring, Councilman at large and Republican candidate for mayor, voiced some hesitation in sending a tax proposal to council. He says the city hasn’t done enough to look at alternative sources of funding for police and safety. He adds that if there is a tax sent to the public, it should be used for more proactive, revenue generating projects. Keller countered that the City is out of time and needs additional funding in order to avoid more cuts in the near future.
 
 The budget cut and tax proposal will be sent to the whole City Council for discussion and consideration on March 19th.
+
+![](images/posts/budget_cut01.jpg)
+![](images/posts/budget_cut02.jpg)
+![](images/posts/budget_cut03.jpg)
+![](images/posts/budget_cut04.jpg)
+![](images/posts/budget_cut05.jpg)
+![](images/posts/budget_cut06.jpg)
+![](images/posts/budget_cut07.jpg)
+![](images/posts/budget_cut08.jpg)
+![](images/posts/budget_cut09.jpg)
+![](images/posts/budget_cut10.jpg)
+![](images/posts/budget_cut11.jpg)
+![](images/posts/budget_cut12s.jpg)
