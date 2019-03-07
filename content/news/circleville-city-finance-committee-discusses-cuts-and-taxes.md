@@ -1,5 +1,5 @@
 ---
-title: "Circleville City facing $709k budget deficit"
+title: "Circleville City Finance Committee discusses $2.9 million budget cut and tax proposal"
 date: 2019-03-06T22:00:00+00:00
 publishdate: 2019-03-06T22:00:00+00:00
 lastmod: 2019-03-06T22:00:00+00:00
