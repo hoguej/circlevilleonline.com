@@ -7,9 +7,11 @@ image: "/images/posts/council-1.jpg"
 type: "post"
 comments: false
 ---
+(Circleville City Council President, David Crawford, and Council Clerk, Linda Chancey)
+
 3/6/2019
 
-CIRCLEVILLE - On Tuesday night, the Circleville City Finance Committee met with the auditor and department heads to discuss a proposed budget cut of $2.9 million and propose a half percent tax levy which would raise $1.5 million for the police and fire departments. If approved by City Council, the tax levy would appear on a special election ballot on August 6th.
+CIRCLEVILLE - On Tuesday night, the Circleville City Finance Committee met with the auditor and department heads to discuss a proposed budget cut of $2.9 million and a half percent tax levy which would raise $1.5 million for the police and fire departments. If approved by City Council, the tax levy would appear on a special election ballot on August 6th.
 
 ## Who
 In attendance of last night’s Circleville Finance Committee meeting were Finance Committee Chair Barry Keller, Council Members Todd Brady, Michelle Blanton, Sheri Theis, Council President David Crawford, Clerk Linda Chancey, Auditor Gayle Spangler, Public Service Director Don Sherman, and Police Chief Shawn Baer.
