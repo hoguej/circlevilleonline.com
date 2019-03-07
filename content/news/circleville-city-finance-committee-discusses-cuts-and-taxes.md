@@ -16,7 +16,6 @@ CIRCLEVILLE - On Tuesday night, the Circleville City Finance Committee met with 
 ## Who
 In attendance of last night’s Circleville Finance Committee meeting were Finance Committee Chair Barry Keller, Council Members Todd Brady, Michelle Blanton, Sheri Theis, Council President David Crawford, Clerk Linda Chancey, Auditor Gayle Spangler, Public Service Director Don Sherman, and Police Chief Shawn Baer.
 
-
 ## Introduction
 
 Spangler, the City Auditor, walked through proposed budget cuts from each fund and department that made up a $2.9 million proposed budget cut. We’ve attached the full text of the proposal which includes cuts from each department from most of the departments (except municipal court and city council). This is a draft proposal, and there was discussion about amending it before sending it on to council to correct 1 of the numbers. It cut one fund by $200k instead of the intended $20k.
@@ -26,7 +25,6 @@ How did the City get into a position where they need to cut $2.9 million from th
 Keller, the Finance Committee Chair says, “In the case of police and fire, the safety fund, general fund, and capital, we budget and we have an income stream that has been flat or declining for years. If you spend more than you bring in, you eat up your cash reserves, and I think that’s what’s catching up to us. We’ve always had a carry over amount or a reserve. That’s dwindling down to next to nothing. So now we have to take drastic cuts.” This is similar to what the auditor said last week when asked about the cause of the deficit.
 
 The city doesn’t know ahead of time what it’s exact revenue will be. For example, it doesn’t know exactly how much each person will make in income and as a result pay in taxes. Regional economics come into play as well, since a high unemployment or underemployment rate will result in lower tax revenue. It’s often the case that the City doesn’t know that it will be short of predictions until after the majority of their money has been collected. The City will often make adjustments to budgets throughout the year as they get a better idea of what actual revenue will be, but each quarter that they spend more than they bring in, it cuts into the City’s cash and investment balance. Keller and Spangler say that this has been occurring for several years, and it’s the primary reason for the drastic budget cut. 
-
 
 How can the city cut $2.9 million dollars, nearly %11.5 of its budget, and not have massive gaps in services. In some cases, city services will be degraded. In other cases, the city is pushing expenses into the future, cutting planned purchases, or correcting over-budgeting. A variety of these budget cutting techniques were used throughout the city budgets.
 
