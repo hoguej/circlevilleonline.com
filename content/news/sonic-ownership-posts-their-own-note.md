@@ -1,8 +1,8 @@
 ---
 title: "Sonic ownership posts their own note"
-date: 2018-02-23T17:00:00+00:00
-publishdate: 2018-02-23T17:00:00+00:00
-lastmod: 2018-02-23T17:00:00+00:00
+date: 2019-02-23T17:00:00+00:00
+publishdate: 2019-02-23T17:00:00+00:00
+lastmod: 2019-02-23T17:00:00+00:00
 image: "/images/posts/sonic3.jpg"
 type: "post"
 comments: false

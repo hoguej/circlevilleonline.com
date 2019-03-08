@@ -1,8 +1,8 @@
 ---
 title: "Adena to Hold Free Heart-to-Heart Talk on AFib Feb. 28"
-date: 2018-02-20T12:00:00+00:00
-publishdate: 2018-02-20T12:00:00+00:00
-lastmod: 2018-02-20T12:00:00+00:00
+date: 2019-02-20T12:00:00+00:00
+publishdate: 2019-02-20T12:00:00+00:00
+lastmod: 2019-02-20T12:00:00+00:00
 image: "/images/posts/DrJohnKeller.jpg"
 type: "post"
 comments: false

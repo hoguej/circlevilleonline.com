@@ -1,8 +1,8 @@
 ---
 title: "Circleville City facing $709k budget deficit"
-date: 2018-02-25T12:00:00+00:00
-publishdate: 2018-02-25T12:00:00+00:00
-lastmod: 2018-02-25T12:00:00+00:00
+date: 2019-02-25T12:00:00+00:00
+publishdate: 2019-02-25T12:00:00+00:00
+lastmod: 2019-02-25T12:00:00+00:00
 image: "/images/posts/circleville_city_hall.jpg"
 type: "post"
 comments: false

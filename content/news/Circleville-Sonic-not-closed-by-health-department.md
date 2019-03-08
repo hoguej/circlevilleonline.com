@@ -1,8 +1,8 @@
 ---
 title: Circleville Sonic not closed by health department
-date: 2018-02-28T14:00:00+00:00
-publishdate: 2018-02-28T14:00:00+00:00
-lastmod: 2018-02-28T14:00:00+00:00
+date: 2019-02-28T14:00:00+00:00
+publishdate: 2019-02-28T14:00:00+00:00
+lastmod: 2019-02-28T14:00:00+00:00
 image: "/images/posts/sonic.jpg"
 type: "post"
 comments: false

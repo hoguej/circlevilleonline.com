@@ -1,8 +1,8 @@
 ---
 title: "Circleville boys basketball beats New Lexington in overtime"
-date: 2018-02-20T14:00:00+00:00
-publishdate: 2018-02-20T14:00:00+00:00
-lastmod: 2018-02-20T14:00:00+00:00
+date: 2019-02-20T14:00:00+00:00
+publishdate: 2019-02-20T14:00:00+00:00
+lastmod: 2019-02-20T14:00:00+00:00
 image: "/images/posts/2019_circleville_boys_basketball_team.webp"
 type: "post"
 comments: false

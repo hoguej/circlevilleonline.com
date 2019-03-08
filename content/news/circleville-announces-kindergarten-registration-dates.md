@@ -1,8 +1,8 @@
 ---
 title: "Circleville announces Kindergarten registration dates"
-date: 2018-02-23T16:00:00+00:00
-publishdate: 2018-02-23T16:00:00+00:00
-lastmod: 2018-02-23T16:00:00+00:00
+date: 2019-02-23T16:00:00+00:00
+publishdate: 2019-02-23T16:00:00+00:00
+lastmod: 2019-02-23T16:00:00+00:00
 image: "/images/posts/circleville_kindergarten_signing.jpg"
 type: "post"
 comments: false
