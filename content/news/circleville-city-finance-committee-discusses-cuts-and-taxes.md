@@ -14,7 +14,7 @@ comments: false
 CIRCLEVILLE - On Tuesday night, the Circleville City Finance Committee met with the auditor and department heads to discuss a proposed budget cut of $2.9 million and a half percent tax levy which would raise $1.5 million for the police and fire departments. If approved by City Council, the tax levy would appear on a special election ballot on August 6th.
 
 ## Who
-In attendance of last night’s Circleville Finance Committee meeting were Finance Committee Chair Barry Keller, Council Members Todd Brady, Michelle Blanton, Sheri Theis, Council President David Crawford, Clerk Linda Chancey, Auditor Gayle Spangler, Public Service Director Don Sherman, and Police Chief Shawn Baer.
+In attendance of last night’s Circleville Finance Committee meeting were Finance Committee Chair Barry Keller, Council Members Todd Brady, Michelle Blanton, Tom Spring, Council President David Crawford, Clerk Linda Chancey, Auditor Gayle Spangler, Public Service Director Don Sherman, and Police Chief Shawn Baer.
 
 ## Introduction
 
@@ -33,7 +33,9 @@ It’s important to note that funds from the general fund can be used to cover e
 ## Cuts that will cause gaps in coverage
 The fire department will be hit hardest in reducing existing coverage. Five part time employees will be laid off from the Fire Department and one currently active FireFighter will resign in June, reducing the current number of Firefighters available to provide service.
 
-The police department is currently short 3 officers due to 1 retirement and 2 officers taking jobs in other cities. Technically, the city is already experiencing a degradation in coverage because of these unfilled positions, but a certain amount of employee churn is normal for all departments. Two officer positions will be cut, making the current coverage level more permanent. The police department will be able to add 1 officer by filling 1 of the 3 currently open positions, but this will leave the police department short of it’s target force numbers.
+The police department currently has 3 open funded positions due to 1 retirement and 2 officers taking jobs in other cities. In addition to the open funded positions, they are currently 3 short of target staffing levels. The proposed budget cuts will funding for an additional 2 positions. Nobody will be layed off in that department because the positions are already vacant, but coverage will be impacted.
+
+Police Chief Baer sasy, "The approved positions allotted by council are 21 police officers, 4 sergeants, 1 Chief, 7 Dispatchers.  Currently we have 15 police officers, 4 sergeants, 1 Chief, and 5 dispatchers. Although we are approved to have these positions they are not all funded and that is where it can get confusing as the funding can change with the revenue as we are dealing with now. So when we are allowed to hire 1 extra police officer that will put us at 16 officers, still 5 short of our council approved strength."
 
 ## Cuts in budget that wasn’t going to be spent any way
 There were several cuts in the utility department that weren’t going to be spent any way. Director Don Sherman says that some open positions have been open for a very long time, and they weren’t planning on filling them anyway. Cuts to these budgeted expenses will not cause a degradation of service and could be a considered a budget correction.
@@ -42,10 +44,10 @@ There were several cuts in the utility department that weren’t going to be spe
 Several budget cuts can be described as borrowing from the future. For example, many equipment and building maintenance funds were cut. The equipment and buildings are still going to degrade over time, and they will eventually need to be repaired or replaced. In fact, not maintaining some of these items will cause more money to be spent in the future. If a needed roof repair isn’t made, for example, that could cause water damage. In the future, they City would need to make the originally planned repairs to the roof and repair water damage.
 
 ## Delaying purchases
-Many of the proposed budget cuts are cutting out planned future purchases. These can cause a degradation of service if the purchases were meant to replace aging equipment. For example, the police department is going to hold off on purchasing 2 new cruises, and the fire department will hold off on purchasing a replacement squad.. The street crews are going to refrain from buying a piece of equipment that would making patching potholes quicker and cheaper. The HR department is going to hold off on buying a new piece of administrative software.
+Many of the proposed budget cuts are cutting out planned future purchases. These can cause a degradation of service if the purchases were meant to replace aging equipment. For example, the police department is going to hold off on purchasing 2 new cruisers, and the fire department will hold off on purchasing a replacement ambulance. The street crews are going to refrain from buying a piece of equipment that would making patching potholes quicker and cheaper. The HR department is going to hold off on buying a new piece of administrative software.
 
 ## Just in case funds
-Some budgets were cut that were set up for “just-in-case” purposes. Sherman mentioned a fund that’s generally used for making emergency repairs due to flooding or drainage issues. He said that had they not made an emergency drainage repair last year, they could have lost parts of Route 56. Cuts in these funds may result in no consequence, if an emergency doesn’t come up. However, if one does, the city will need to react to the funding need by making cuts from somewhere else.
+Some budgets were cut that were set up for “just-in-case” purposes. Sherman mentioned a fund that’s generally used for making emergency repairs due to storm water drainage issues. He said that had they not made an emergency drainage repair last year, they could have lost parts of Route 56. Cuts in these funds may result in no consequence, if an emergency doesn’t come up. However, if one does, the city will need to react to the funding need by making cuts from somewhere else.
 
 ## Acceptable degradation of service
 One case where the city decided to make a sacrifice in quality of life is the funding of lighting at Ted Lewis park. It costs the city $8,000 per year to light Ted Lewis Park after dark, because they aren’t very efficient. Spangler said that the lights at Barthelmas are very inexpensive to run in contrast. Another area where the city is going to accept a lower level of service is in zoning enforcement.
@@ -56,6 +58,8 @@ Keller says that financial discipline and creative thinking are required to navi
 Tom Spring, Councilman at large and Republican candidate for mayor, voiced some hesitation in sending a tax proposal to council. He says the city hasn’t done enough to look at alternative sources of funding for police and safety. He adds that if there is a tax sent to the public, it should be used for more proactive, revenue generating projects. Keller countered that the City is out of time and needs additional funding in order to avoid more cuts in the near future.
 
 The budget cut and tax proposal will be sent to the whole City Council for discussion and consideration on March 19th.
+
+Corrections and updates (3/8/2019): Sheri Theis was at the council meeting, but not present at the finance committee meeting. Human Resources Diretor Tony Chamberlain and Tom Spring were at the meeting. Replaced the term squad with an ambulance, as squad tends to refer to the people and ambulance more accurately refers to the vehicle. Changed "flooding and drainage" to "storm water drainage" to more accurately describe the fund. Added clarification of current police staff levels from Chief Baer.
 
 ![](images/posts/budget_cut01.jpg)
 ![](images/posts/budget_cut02.jpg)
