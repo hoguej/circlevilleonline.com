@@ -2,7 +2,7 @@
 title: "Circleville City Finance Committee discusses $2.9 million budget cut and tax proposal"
 date: 2019-03-06T22:00:00+00:00
 publishdate: 2019-03-06T22:00:00+00:00
-lastmod: 2019-03-06T22:00:00+00:00
+lastmod: 2019-03-08T09:12:00+00:00
 image: "/images/posts/council-1.jpg"
 type: "post"
 comments: false
