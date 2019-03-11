@@ -3,11 +3,11 @@ title: "Movie "Wager" to be filmed in Pickaway County"
 date: 2019-03-11T19:00:00+00:00
 publishdate: 2019-03-11T19:00:00+00:00
 lastmod: 2019-03-11T19:00:00+00:00
-image: "/images/posts/wager.jpeg"
+image: "/images/posts/wager2.jpg"
 type: "post"
 comments: false
 ---
-Clean Screen Productions, a locally owned production company in Ohio, is producing the award winning screenplay "The Wager," in Pickaway County!
+Clean Screen Productions, a locally owned production company in Ohio, is producing the award winning screenplay "The Wager," in Pickaway County.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PONEUNXWOcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
