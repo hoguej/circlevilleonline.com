@@ -1,5 +1,5 @@
 ---
-title: "Company to produce film in Pickaway County"
+title: "Movie "Wager" to be filmed in Pickaway County"
 date: 2019-03-11T19:00:00+00:00
 publishdate: 2019-03-11T19:00:00+00:00
 lastmod: 2019-03-11T19:00:00+00:00
