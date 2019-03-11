@@ -27,4 +27,4 @@ Thompson has worked on several campaigns for other candidates, but this will be 
 
 I believe that rehabilitation will be another tool used as a profit maker, and that’s something I’m going to stand against, giving funding to places that don’t have success rates that are even close to being acceptable. I think we need to take a look at what rehabilitation means. Does it mean someone staying on suboxone for the rest of their lives? What is successful rehabilitation, and how do we measure that? I think those are answers that are going to be the difficult ones to answer. We need legislators that know how rehabilitation works and doesn’t work, and the programs that can help and not help.*
 
-
+You can learn more about Thompson at his [website.](https://www.thompsonforohio.com/)
