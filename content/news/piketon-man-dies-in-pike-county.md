@@ -1,5 +1,5 @@
 ---
-title: "Piketon dies after crashing in Pike County"
+title: "Piketon man dies after crashing in Pike County"
 date: 2019-03-10T21:41:00+00:00
 publishdate: 2019-03-10T21:41:00+00:00
 lastmod: 2019-03-10T21:41:00+00:00
