@@ -1,5 +1,5 @@
 ---
-title: "Movie \"Wager\" to be filmed in Pickaway County"
+title: "Movie \"The Wager\" to be filmed in Pickaway County"
 date: 2019-03-11T19:00:00+00:00
 publishdate: 2019-03-11T19:00:00+00:00
 lastmod: 2019-03-11T19:00:00+00:00
@@ -23,4 +23,4 @@ Gloyd says, there is a lot of excitement behind this movie and the impact it wil
 # Fundraising Details
 Gloyd concludes, "We had people in seven states invest in it when we were looking for investors. We would really like to see Pickaway County get behind it now that we are in a crowdfunding phase."
 
-[To see more about the project, and to help out, visit their indiegogo page.](https://www.indiegogo.com/projects/the-wager#/)
+[To see more about the project, and to help out, click here to visit their indiegogo page.](https://www.indiegogo.com/projects/the-wager#/)
