@@ -1,3 +1,12 @@
+---
+title: "Funding for Barthelmas Park expansion to happen over 5 years"
+date: 2019-03-15T00:00:00+00:00
+publishdate: 2019-03-15T00:00:00+00:00
+lastmod: 2019-03-15T00:00:00+00:00
+image: "/images/posts/city-county-agreement1.jpg"
+type: "post"
+comments: false
+---
 Yesterday, I made a post about some discrepencies in how the funding for the Barthelmas Park expansion was being communicated and how the funding was actually going to work.
 
 Over the next few weeks, we'll discover if the City will be awarded the $150k grant from the State to help fund the purchase. Also, we hope to discover from which budget the purchase will be made from, and whether other cuts will have to be made to facilitate that.
