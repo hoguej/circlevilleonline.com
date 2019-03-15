@@ -1,5 +1,5 @@
 ---
-title: "Funding for Barthelmas Park expansion to happen over 5 years"
+title: "Grant funding for Barthelmas Park expansion to happen over 5 years"
 date: 2019-03-15T00:00:00+00:00
 publishdate: 2019-03-15T00:00:00+00:00
 lastmod: 2019-03-15T00:00:00+00:00
