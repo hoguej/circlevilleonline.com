@@ -7,7 +7,9 @@ image: "/images/posts/barthelmas.jpg"
 type: "post"
 comments: false
 ---
-Through a public information request, it was discovered that the purchase contract for the Barthelmas Park expansion may not be a valid real estate purchase contract. There is not a specific date on the signatures and the closing date is in the past. According to [Kohrman, Jackson, and Krantz, an Ohio law firm](https://www.kjk.com/2017/12/11/enforceable-real-estate-agreement/), real estate contracts must have definiteness.
+*[Image from www.ci.circleville.oh, a public domain website.](https://www.ci.circleville.oh.us/Facilities/Facility/Details/Main-Shelter-House-12)*
+
+CIRCLEVILLE - Through a public information request, it was discovered that the purchase contract for the Barthelmas Park expansion may not be a valid real estate purchase contract. There is not a specific date on the signatures and the closing date is in the past. According to [Kohrman, Jackson, and Krantz, an Ohio law firm](https://www.kjk.com/2017/12/11/enforceable-real-estate-agreement/), real estate contracts must have definiteness.
 
 > Definiteness. The terms of the contract, especially basic terms such as price, legal description, and closing date must be reasonably certain. A court must be able to look at the agreement and determine the parties’ obligations from within the “four corners of the document.”
 
@@ -37,6 +39,7 @@ Here is the ordinance authorizing the mayor to make the purchase. The language i
 
 Notice that no appropriation of funds was mentioned in either ordinance, which is consistent with what city officials told me.
 
+# I'm still seeking answers to the following questions
 * When will city council appropriate the funds?
 * Which fund will they appropriate the purchase from?
 * If the funding is coming from the roads and parks fund (206), will Ted Lewis Park funding or road funding be cut to fund it?
