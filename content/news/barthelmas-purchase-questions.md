@@ -18,7 +18,7 @@ As you can see below, the basic terms of the contract are not "reasonably certai
 
 # Has the purchase contract been executed yet?
 
-I asked a handful of city officials if the purchase contract had been executed yet, and that's the only question that hasn't been answered so far. My assumption is that it has not, because according to the City Auditor, Mayor, President of Council and other officials, the money has not yet been appropriated for the purchase. A check can't be written to close the contract if the money's haven't been appropriated by council.
+I asked a handful of city officials if the purchase contract had been executed yet, and that's the only question that hasn't been answered so far. My assumption is that it has not, because according to the City Auditor, Mayor, President of Council and other officials, the money has not yet been appropriated for the purchase. A check can't be written to close the contract if the money hasn't been appropriated by council.
 
 # Was council mislead by the mayor about the terms of the purchase?
 In the [Circleville Herald](https://www.circlevilleherald.com/news/enhancing-barthelmas-park/article_c2c0d260-c326-5912-80e8-f6eb07c85bca.html), the funding of the park was characterized as:
