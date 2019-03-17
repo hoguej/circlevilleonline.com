@@ -9,7 +9,7 @@ comments: false
 ---
 *Image from google maps.*
 
-3/17/2019
+3/17/2019 
 
 CIRCLEVILLE - Circleville City plans to buy land to expand Barthelmas Park by 20 acres. We looked at the purchase contract and noticed that it doesn't list a property description or a timeline, 2 required attributes of all real estate purchase contracts. We were able to pull the parcel number from a grant agreement between the City and the Pickaway Parks District. Parcel [A0100010028100](http://pickaway.iviewauditor.com/Data.aspx?ParcelID=A0100010028100) is 114.7 acres located just south of Barthelmas Park.
 
