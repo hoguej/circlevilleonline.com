@@ -1,13 +1,13 @@
 ---
 title: "Are back taxes owed on Barthelmas Park Expansion?"
-date: 2019-03-17T11:23:00+00:00
-publishdate: 2019-03-17T23:00:00+00:00
-lastmod: 2019-03-17T23:00:00+00:00
+date: 2019-03-17T11:11:00+00:00
+publishdate: 2019-03-17T11:00:00+00:00
+lastmod: 2019-03-17T11:00:00+00:00
 image: "/images/posts/barthelmas-google-maps-close-up.png"
 type: "post"
 comments: false
 ---
-*Image from google maps.*
+*Image from google maps*
 
 3/17/2019 
 
