@@ -15,7 +15,7 @@ CIRCLEVILLE - Circleville City plans to buy land to expand Barthelmas Park by 20
 
 ![](/images/posts/auditor_map.png)
 
-On the Pickaway County Auditor's Site, it is listed as 110.7 acres tillable, 1 acre right of way, 2 acres homesite, and 1 acre primary site. The 20 acres being sold to the city is currently being leased by AEP/Ohio Power, according to the purchase contract. That land has not been used for farming; therefore, should not be listed as tillable land. Farming land is taxed at a lesser amount, and when land is converted from farming to other use, the land owner is required to pay CAUV recpature taxes. The purchase contract declares that the seller will pay any owed taxes, but the buyer will pay the CAUV recapture taxes. If the land were properly reclassified and back taxes were due for the misclassification, who would pay, the sellers or the City?
+On the Pickaway County Auditor's Site, it is listed as 110.7 acres tillable, 1 acre right of way, 2 acres homesite, and 1 acre primary site. The 20 acres being sold to the city is currently being leased by AEP/Ohio Power, according to the purchase contract. That land has not been used for farming; therefore, should not be listed as tillable land. Farming land is taxed at a lesser amount, and when land is converted from farming to other use, the land owner is required to pay CAUV recapture taxes. The purchase contract declares that the seller will pay any owed taxes, but the buyer will pay the CAUV recapture taxes. If the land were properly reclassified and back taxes were due for the misclassification, who would pay, the sellers or the City?
 
 ![](/images/posts/barthelmas-google-maps.png)
 
