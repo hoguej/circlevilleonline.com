@@ -52,3 +52,5 @@ Notice that no appropriation of funds was mentioned in either ordinance, which i
 ![](/images/posts/barthelmas-purchase4.jpg)
 ![](/images/posts/barthelmas-purchase5.jpg)
 ![](/images/posts/barthelmas-purchase6.jpg)
+
+Updated 3/17/2019: Added the information about not describing which property is even being sold.
