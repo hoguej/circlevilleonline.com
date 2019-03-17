@@ -9,7 +9,7 @@ comments: false
 ---
 *[Image from www.ci.circleville.oh, a public domain website.](https://www.ci.circleville.oh.us/Facilities/Facility/Details/Main-Shelter-House-12)*
 
-CIRCLEVILLE - Through a public information request, it was discovered that the purchase contract for the Barthelmas Park expansion may not be a valid real estate purchase contract. There is not a specific date on the signatures and the closing date is in the past. According to [Kohrman, Jackson, and Krantz, an Ohio law firm](https://www.kjk.com/2017/12/11/enforceable-real-estate-agreement/), real estate contracts must have definiteness.
+CIRCLEVILLE - Through a public information request, it was discovered that the purchase contract for the Barthelmas Park expansion may not be a valid real estate purchase contract. There is not a specific date on the signatures and the closing date is in the past. Also, the contract doesn't even list which property is being sold. It only describes the property as being approximately 20 acres in Pickaway County. According to [Kohrman, Jackson, and Krantz, an Ohio law firm](https://www.kjk.com/2017/12/11/enforceable-real-estate-agreement/), real estate contracts must have definiteness.
 
 > Definiteness. The terms of the contract, especially basic terms such as price, legal description, and closing date must be reasonably certain. A court must be able to look at the agreement and determine the parties’ obligations from within the “four corners of the document.”
 
