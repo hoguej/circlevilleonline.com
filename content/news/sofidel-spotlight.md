@@ -15,9 +15,9 @@ Image from [tissue360.tappi.org](https://tissue360.tappi.org).
 
 [Tissue 360's article on Circleville Sofidel plant. CLICK HERE TO READ.](https://tissue360.tappi.org/2019/04/03/sofidel-opens-a-showcase-in-circleville/)
 
-CIRCLEVILLE - What questions do you have about Circleville’s Sofidel plant? This article answers just about every one, including history, why Circleville was chosen, and output capacity. You can tell it’s written by a toilet paper industry nerd. It's full of information. What you come to realize from the article is that the Circleville Sofidel plant is special, from Sofidel's perspective and from a world perspective. It is one of the largest and most advanced toilet paper factories in the world.
+CIRCLEVILLE - What questions do you have about Circleville’s Sofidel plant? [This article](https://tissue360.tappi.org/2019/04/03/sofidel-opens-a-showcase-in-circleville/) answers just about every one, including history, why Circleville was chosen, and output capacity. You can tell it’s written by a toilet paper industry nerd. It's full of information. What you come to realize [from the article](https://tissue360.tappi.org/2019/04/03/sofidel-opens-a-showcase-in-circleville/) is that the Circleville Sofidel plant is special, from Sofidel's perspective and from a world perspective. It is one of the largest and most advanced toilet paper factories in the world.
 
-There are so many gems in this article, you should read the whole thing, but here are just a couple noteworthy snippets.
+There are so many gems in [this article](https://tissue360.tappi.org/2019/04/03/sofidel-opens-a-showcase-in-circleville/), you should read the whole thing, but here are just a couple noteworthy snippets.
 
 “The plant is Sofidel’s largest integrated facility, covering 1.8 million ft2 and stretching a mile long. It is also its most technically advanced.”
 
