@@ -7,9 +7,8 @@ image: "/images/posts/elsea-hiring.png"
 type: post
 comments: false
 ---
-*sponsored content*
-
-# CDL DRIVER CLASS A/SERVICE TECH.
+## CDL DRIVER CLASS A/
+## SERVICE TECH.
 FULL TIME Monday-Friday 7:30am-4:30pm 
 **EVENINGS & WEEKENDS OFF**
 Rather you have years of experience or just starting out, will train on site
@@ -17,7 +16,7 @@ Transporting, Set-up and Servicing Mobile Homes
 Position located in Circleville
 
 
-# MOBILE HOME REFURBISHER
+## MOBILE HOME REFURBISHER
 FULL TIME Monday-Friday 8am-5pm
 **EVENINGS & WEEKENDS OFF**
 Constructs and repairs structural woodwork and equipment in
@@ -26,7 +25,8 @@ Position located in Circleville
 MUST have a valid driver’s license
 
 
-# MAINTENANCE TECH./ GROUNDS KEEPER
+## MAINTENANCE TECH./
+## GROUNDS KEEPER
 Positions located in Circleville and/or Chillicothe
 FULL TIME Monday- Friday 8am-5pm 
 On call for Emergencies
@@ -35,7 +35,8 @@ at any Elsea, Inc owned Mobile Home Park, will train on site
 MUST have a valid driver’s license
 
 
-# OUTSIDE COLLECTOR / ASSET MANAGER TRAINEE 
+## OUTSIDE COLLECTOR /
+## ASSET MANAGER TRAINEE 
 Position located in Circleville
 FULL TIME Position Monday- Friday 8am-5pm
 Every Other Saturday 8am-12pm
@@ -45,3 +46,5 @@ Makes Field Calls
 CONTACT Sarah Frazier TODAY! 
 [740-420-2713](tel:740-420-2713) or [sfrazier@elsea.com](mailto:sfrazier@elsea.com)
 [Elsea Inc.](http://elseahomes.com/) is an EOE
+
+*sponsored content*
