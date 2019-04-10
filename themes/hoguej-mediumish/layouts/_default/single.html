@@ -14,6 +14,10 @@
                 </div>
                 <!-- Post -->                
                 <div class="col-md-9 flex-first flex-md-unordered">
+                    <div class="ad">
+                        {{- partial "_shared/ad.html" . -}}
+                    </div>
+
                     <div class="mainheading">
                         <!-- Author Box -->	
                         {{if isset .Site.Params.author "name"}}
@@ -46,10 +50,6 @@
                         <img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
                     {{end}}
                     <!-- End Featured Image -->
-
-                    <div class="ad">
-                        {{- partial "_shared/ad.html" . -}}
-                    </div>
                     
                     <!-- Post Content -->
                     <div class="article-post">
