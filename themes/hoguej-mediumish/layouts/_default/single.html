@@ -46,6 +46,10 @@
                         <img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
                     {{end}}
                     <!-- End Featured Image -->
+
+                    <div class="ad">
+                        {{- partial "shared/ad.html" . -}}
+                    </div>
                     
                     <!-- Post Content -->
                     <div class="article-post">
