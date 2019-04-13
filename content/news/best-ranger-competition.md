@@ -7,7 +7,7 @@ image: "/images/posts/best_ranger_competition2.jpg"
 type: "post"
 comments: false
 ---
-Picture: Master Sergeant Rob Jackson and Sergeant Major Eric Echavarria line up a shot in shooting competition. Their farthest shot for the day, 927 meters.
+*Picture: Master Sergeant Rob Jackson and Sergeant Major Eric Echavarria line up a shot in shooting competition. Their farthest shot for the day, 927 meters.*
 
 FORT BENNING, GA - Army rangers from all over the world are gathering this weekend for a 60 hour competition to find out who is the Best Ranger in the world. The 3-day challenge includes 55, two-man teams, and all participants must be Army Ranger qualified.
 
