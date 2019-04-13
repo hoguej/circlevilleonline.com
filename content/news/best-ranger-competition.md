@@ -15,9 +15,9 @@ FORT BENNING, GA - Army rangers from all over the world are gathering this weeke
 
 A 2000 graduate from Miami Trace High School named Rob Jackson is participating for the third time. Jackson is paired with with Sergeant Major Eric Echavarrie. The pair is in 6th place after the first days events. You can follow their progress on the [Best Ranger Competition Facebook Page.](https://www.facebook.com/bestranger). They are team 36.
 
-The schedule of events from [the Best Ranger Competition website.](www.bestrangercompetition.com)
+The schedule of events from [the Best Ranger Competition website.](http://www.bestrangercompetition.com)
 
-![](/iamges/posts/best_ranger_schedule.png)
+![](/images/posts/best_ranger_schedule.png)
 
 See [this story](https://www.wrbl.com/news/local-news/army-rangers-prepare-for-2019-best-ranger-competition/1910919128?fbclid=IwAR2yVFd2rRr_ptVApXu4qX7d_VwDoFKC5TzO2qXlFL2ZY7E3VMUNocRM0YU) on the event written by a local (to Georgia) news channel.
 
