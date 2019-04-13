@@ -9,9 +9,10 @@ comments: false
 ---
 *Picture: Master Sergeant Rob Jackson and Sergeant Major Eric Echavarria line up a shot in shooting competition. Their farthest shot for the day, 927 meters.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b5Xmv7TV6xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 FORT BENNING, GA - Army rangers from all over the world are gathering this weekend for a 60 hour competition to find out who is the Best Ranger in the world. The 3-day challenge includes 55, two-man teams, and all participants must be Army Ranger qualified.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5Xmv7TV6xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Video introduction to the competition.*
 
 A 2000 graduate from Miami Trace High School named Rob Jackson is participating for the third time. Jackson is paired with with Sergeant Major Eric Echavarrie. The pair is in 6th place after the first days events. You can follow their progress on the [Best Ranger Competition Facebook Page.](https://www.facebook.com/bestranger). They are team 36. There are also plenty of pictures and videos from the event.
 
