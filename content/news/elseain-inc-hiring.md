@@ -6,6 +6,7 @@ lastmod: 2019-04-08T11:09:00-05:00
 image: "/images/posts/elsea-hiring.png"
 type: post
 comments: false
+hideAds: true
 ---
 ## CDL DRIVER CLASS A / SERVICE TECH.
 - FULL TIME Monday-Friday 7:30am-4:30pm 
