@@ -14,10 +14,6 @@
                 </div>
                 <!-- Post -->                
                 <div class="col-md-9 flex-first flex-md-unordered">
-                    {{ if ne .Params.hideAds true }}
-                        {{- partial "_shared/ad.html" . -}}
-                    {{ end }}
-
                     <div class="mainheading">
                         <!-- Author Box -->	
                         {{if isset .Site.Params.author "name"}}
@@ -87,6 +83,10 @@
         ================================================== -->
         {{ if .Params.comments }}
             {{- partial "single-partials/comments.html" . -}}
+        {{ end }}
+
+        {{ if ne .Params.hideAds true }}
+            {{- partial "_shared/ad.html" . -}}
         {{ end }}
     </div>
     <!-- {{- partial "_shared/alertbar.html" . -}} -->
