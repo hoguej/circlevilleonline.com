@@ -6,6 +6,7 @@ lastmod: 2019-04-20T20:00:00+00:00
 image: "/images/posts/dodgeball.jpg"
 type: "post"
 comments: false
+hideAds: true
 ---
 4/20/2019
 By Jon Hogue
