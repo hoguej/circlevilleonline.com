@@ -19,3 +19,5 @@ Phillips added, “I think the teams that came had a good time. We learned a lot
 Roosters was the presenting sponsor. They provided prizes to the winning teams and discounts at their restaurant to each of the participants. Healthcare Logistics donated the first place plaque.
 
 Before the tournament, one of the players jokingly boasted, “When we win this tournament, we’re going to hang this plaque at the YMCA with our pictures above it.” His team ended up winning first place, so the next time you’re at the YMCA, see if he was able to get it displayed. On the way out, one of the players exclaimed to Phillips, “Definitely do it again next year. That was a lot of fun!”
+
+More pictures can be found at the [Circleville Online Facebook Page.](https://www.facebook.com/CirclevilleOnline/posts/2167871513268122) and at the [Pickaway County Family YMCA Facebook Page.](https://www.facebook.com/PickawayYMCA/)
