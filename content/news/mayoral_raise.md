@@ -10,7 +10,7 @@ hideAds: true
 ---
 ## The Lie
 
-Mayoral candidate Tom Spring pushed for a big pay raise for the Mayor (alone), then cut fire and police positions, then ran for mayor in order to collect on that pay raise. The deception continues that the incumbent Mayor Don McIlroy stood alone against the pay raise in an altruistic stance to protect the budget. It’s also implied that the pay increases contributed to the laying off of firemen and policemen.
+The lie goes, mayoral candidate Tom Spring pushed for a big pay raise for the Mayor position (alone), then cut fire and police positions, then ran for mayor in order to collect on that pay raise. The deception continues that the incumbent Mayor Don McIlroy stood alone against the pay raise in an altruistic stance to protect the budget. It’s also implied that the pay increases contributed to the laying off of firemen and policemen.
 
 ## The Truth
 
