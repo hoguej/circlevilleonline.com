@@ -44,9 +44,7 @@ For 6 positions in the [upcoming May 7th primary](https://pickaway.ohioboe.com/c
 
 Although, it may be true Mayor McIlroy is not in it for the money, that’s possible because the mayor retired from a long professional career before becoming mayor, and we can assume is receiving income from that retirement. An extra $40k on top of retirement income is a nice bonus, but most CEO’s of $20 million per year companies would never consider a leadership position with a pay of $40k per year. It’s been argued that is part time salary; however, it was reported that the current mayor regularly works 40-60 hours in that part time role.
 
-If the city wants to attract non-retiree, professional leadership into the Mayor role, it makes sense to increase the Mayor’s salary to be more competitive with the private sector.
-
-Essentially, the mayorship is a full time job that pays 50% of similar jobs. It would be attractive to a retired person receiving income from somewhere else, but a professional leader would have a hard time justifying the pay cut.
+If the city wants to open up the mayor role to non-retiree, professional leadership, it makes sense to increase the Mayor’s salary to be more competitive with the private sector.
 
 As an incumbent retiree Mayor who doesn't need the money, it is not in the Mayor’s interest to attract competition to his elected position. While his opposition to the increase is easy to pass off as altruistic, his opposition to the raise also serves his own agenda to stay in office, and to limit the field of competition to other retirees or candidates that aren't already professional leaders.
 
