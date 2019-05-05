@@ -1,8 +1,8 @@
 ---
 title: "Lies, damn lies, and campaign propaganda: the truth about the mayoral pay raise"
 date: 2019-05-05T05:30:01+00:00
-publishdate: 2019-04-22T05:30:01+00:00
-lastmod: 2019-04-22T05:30:01+00:00
+publishdate: 2019-05-05T05:30:01+00:00
+lastmod: 2019-05-05T05:30:01+00:00
 image: "/images/posts/city_admin_bw.jpg"
 type: post
 comments: false
