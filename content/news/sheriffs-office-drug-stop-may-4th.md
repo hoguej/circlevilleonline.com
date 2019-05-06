@@ -3,7 +3,7 @@ title: "Pickaway County Sheriff's Office makes drug trafficking arrest"
 date: 2019-05-06T08:13:00+00:00
 publishdate: 2019-05-06T08:13:00+00:00
 lastmod: 2019-05-06T08:13:00+00:00
-image: "/images/posts/joris2.jpg"
+image: "/images/posts/joris2.png"
 type: "post"
 comments: false
 ---
