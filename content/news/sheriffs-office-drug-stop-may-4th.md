@@ -3,7 +3,7 @@ title: "Pickaway County Sheriff's Office makes drug trafficking arrest"
 date: 2019-05-06T08:13:00+00:00
 publishdate: 2019-05-06T08:13:00+00:00
 lastmod: 2019-05-06T08:13:00+00:00
-image: "/images/posts/joris.jpg"
+image: "/images/posts/joris2.jpg"
 type: "post"
 comments: false
 ---
@@ -35,3 +35,5 @@ The Pickaway County Sheriff’s Office encourages anyone with drug tips, to plea
 Sheriff’s Office at their anonymous tips line at tips@pickawaysheriff.com Without the help of the
 communities’ tips we would not be successful in our efforts of keeping the community safe and
 fighting drug abuse.
+
+![](/images/posts/joris.jpg)
