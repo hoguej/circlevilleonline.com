@@ -16,6 +16,7 @@ There was a controversial irregularity. Only 300 people registered to vote at th
 Christopher requested a recount and appealed to the Common Pleas Court. The city prosecutor, Roger Kline, and Strickland denied that she made two votes for the mayor, saying that she hadn't voted for the mayor the second time she voted.
 
 ![](/images/posts/christopher2.jpg)
+*W.E. Christopher*
 
 Christopher asked the judge to void the election, declare him the winner, or declare a tie vote. The issues wasn't resolved until December 12th that year when Judge William Ammer ruled that he had not authority to order a new election, and the if the election were voided, Jenkins would serve another term as mayor any way.
 
