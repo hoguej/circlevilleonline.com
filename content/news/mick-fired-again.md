@@ -9,7 +9,7 @@ comments: false
 ---
 5/14/2019
 
-NEW HOLLAND - In July of 2018, the Village of New Holland Council was in the process of firing Sgt. Brad Mick when he presented charges against Mayor Clair "Butch" Betzko and acting police chief David Conrad. He alleged that they conspired to forge outgoing Police Chief Jason Lawless's signature on paperwork bound for the Attorney General's office. Neither Jason Lawless or the Attorney General were listed as complainants on the charge. The charge was later dismissed by the Pickaway County prosecutor.
+NEW HOLLAND - In July of 2018, the Village of New Holland Council was in the process of firing Sgt. Brad Mick when he presented charges against Mayor Clair "Butch" Betzko and acting police chief David Conrad. He alleged that they conspired to forge outgoing Police Chief Jason Lawless's signature on paperwork bound for the Attorney General's office. Neither Jason Lawless or the Attorney General were listed as complainants on the charge. The charge was later dismissed by the Pickaway County Prosecutor.
 
 The allegations were used to secure a search warrant on the Village of New Holland Administration building, which at the time housed all the City's business offices, police offices, and criminal evidence. According to witnesses at the scene, Pickaway County Sheriff's deputies and Ohio State Highway Patrol secured the building while Mick was allowed to search the facility by himself.
 
