@@ -13,7 +13,7 @@ Pictured: Cara Hogue, Carrie Hogue, Mindi Brown, Mason Brown, Robert Hogue, Heid
 
 CIRCLEVILLE TOWNSHIP - Circleville Township Park (Logan Elm Village Park) was recently reopened after a few weeks of construction. The significant upgrade is a result of a partnership between the citizens of Logan Elm Village and the township that began in early 2018. The park is located south of Circleville on Tarlton Road, just east of the U.S. Route 23 intersection.
 
-Park attendance has already increased from mostly basketball players to dozens of kids and adults on the nicest days.
+Park attendance has already increased to dozens of kids and adults in the evenings on nice days.
 
 The project was paid for by funds from Circleville Township, Pickaway County Park District and a private contribution from LW Associates. The improvements mark phase 1 of a 3 phase, 5 year plan. Future phases include adult workout equipment that would face the playground and a shelter house. Families could go to the park, and adults could exercise on outside fitness machines while watching their kids play.
 
