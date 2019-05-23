@@ -21,8 +21,8 @@ As a result of the irregularities, a freeze was placed on the checking and savin
 
 Peters allegedly sent an apology letter to the league, according to documents filed with the court. In the letter, Peters claimed it was a case of accidently using the wrong card. In court, Peters appeared heartbroken when Judge Dumm told him that he was to not have contact with the league until the issue was resolved. Peters was a softball coach in the league.
 
-Several board members spoke to us on the condition of anonymity. They said that they have little or no access to information, such as meeting notifications, meeting minutes, financial information, or even the league's by-laws. According to board member Miller, when he asked for more details on the leagues business, he was asked to resign from the board.
+Several board members spoke to us on the condition of anonymity. They said that they have little or no access to information, such as meeting notifications, meeting minutes, financial information, or even the league's by-laws. According to board member Miller, when he asked for more details on the league's business, he was asked to resign from the board.
 
-Peters was released granted a recognizance bond, but was required to be booked and photographed at the Pickaway County Sheriff's Office.
+Peters was granted a recognizance bond, but was required to be booked and photographed at the Pickaway County Sheriff's Office.
 
 Requests for comment from Joshua Peters and Scott Gaskins where not answered by the time of this article's publishing.
