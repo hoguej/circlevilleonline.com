@@ -23,6 +23,6 @@ Peters allegedly sent an apology letter to the league, according to documents fi
 
 Several board members spoke to us on the condition of anonymity. They said that they have little or no access to information, such as meeting notifications, meeting minutes, financial information, or even the league's by-laws. According to board member Miller, when he asked for more details on the league's business, he was asked to resign from the board.
 
-Peters was granted a recognizance bond, but was required to be booked and photographed at the Pickaway County Sheriff's Office.
+Peters was granted a recognizance bond, but was required to be booked and photographed at the Pickaway County Sheriff's Office. A follow-up hearing is scheduled for May 30th. 
 
 Requests for comment from Joshua Peters and Scott Gaskins where not answered by the time of this article's publishing.
