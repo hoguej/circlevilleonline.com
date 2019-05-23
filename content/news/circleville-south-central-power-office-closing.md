@@ -9,9 +9,9 @@ comments: false
 ---
 Lancaster, Ohio, May 20, 2019 – South Central Power Company today announced plans to consolidate three central Ohio facilities into a single location in the Rock Mill Industrial Park in Lancaster, with a projected opening in 2021.
 
-Staff from the electric cooperative’s existing offices in Lancaster, Canal Winchester and Circleville will relocate to the new facility, creating a combined workforce of around 180. The facility will be located at the intersection of Mill Park Drive and Dave Johns Avenue, close to the intersection of U.S. Hwy. 33 and S.R. 188. 
+Staff from the electric cooperative’s existing offices in Lancaster, Canal Winchester and Circleville will relocate to the new facility, creating a combined workforce of around 180. The facility will be located at the intersection of Mill Park Drive and Dave Johns Avenue, close to the intersection of U.S. Hwy. 33 and S.R. 188.
 
-“Our staff and trustees studied our facility needs for approximately 30 months, and we determined that the best way to create long-term cost savings while providing outstanding service is to consolidate,” said Rick Lemonds, President & CEO of South Central Power. “We project that by combining our three central Ohio offices into a single, energy efficient building, we will lower maintenance expenses, office expenses and other costs, resulting in a building that pays for itself over time.”  
+“Our staff and trustees studied our facility needs for approximately 30 months, and we determined that the best way to create long-term cost savings while providing outstanding service is to consolidate,” said Rick Lemonds, President & CEO of South Central Power. “We project that by combining our three central Ohio offices into a single, energy efficient building, we will lower maintenance expenses, office expenses and other costs, resulting in a building that pays for itself over time.”
 
 South Central Power’s current headquarters, located off Coonpath Road, was first constructed in 1943 and lacks adequate space for the cooperative’s current operational needs. Additionally, the aging facility would need significant investments to sustain workforce requirements at that location.
 
