@@ -52,26 +52,45 @@ At the time of the interview and text messages, Derek Myers was attempting to bu
 
 ### Text Messages
 
+Irrelevant messages omitted. See attached images for full unedited exchange.
+
 ---
 
-Mick: Did Jason provide you with a number to potentially reach Derek [Meyers]?
+### Mick
+
+Did Jason provide you with a number to potentially reach Derek [Meyers]?
 Was he with you when calls were made? And did he allow you to make calls from his office?
-…
-Landman: No Jason did not give me any number I never used police phone ever. It wasn’t phone calls made. It was one made of my cell phone and yes I called him a [homosexual slur]. Nobody asked me too
-...
-Mick: Ok. Soooo you want out of this mess?
-Landman: Yes
-Mick: Write me a statement and it’ll be done.
-…
+
+### Landman
+
+No Jason did not give me any number I never used police phone ever. It wasn’t phone calls made. It was one made of my cell phone and yes I called him a [homosexual slur]. Nobody asked me too
+
+### Mick
+
+Ok. Soooo you want out of this mess?
+
+### Landman
+
+Yes
+
+### Mick
+
+Write me a statement and it’ll be done.
+
 Mick: I’m telling you that if you write a statement that Jason was with you when calls were made and he allowed you to use his office to call. I will almost guarantee it will go away.
 You want it to end? Let’s do it.
+
 Lawless or Conrad or anyone from NHPD will hurt you.
 
-Landman: You want me to write a statement against lawless. Joey was in the room. No one told me to call Derek that name I just did ..
+### Landman
 
-Mick: Yes
-…
-Mick: Speak this to no one or I can’t help.
+You want me to write a statement against lawless. Joey was in the room. No one told me to call Derek that name I just did ..
+
+### Mick
+
+Yes
+
+Speak this to no one or I can’t help.
 
 ---
 
