@@ -19,7 +19,7 @@ The police investigation showed that questionable transactions against the accou
 
 As a result of the irregularities, a freeze was placed on the checking and savings account on May 7. According to the report, a day later league president Scott Gaskins contacted the police department to find out why the account was froze. Gaskins said the league was aware of the issues, and that the transactions were on Peters's card. He told the investigator that the league intended to handle the matter internally and had made arrangements for Peters to pay back the league.
 
-Peters sent an apology letter to the league, according to documents filed with the court. In the letter, Peters claimed it was a case of accidently using the wrong card. In court, Peters appeared heartbroken when Judge Dumm told him that he was to not have contact with the league until the procedure was resolved. Peters was a softball coach.
+Peters allegedly sent an apology letter to the league, according to documents filed with the court. In the letter, Peters claimed it was a case of accidently using the wrong card. In court, Peters appeared heartbroken when Judge Dumm told him that he was to not have contact with the league until the issue was resolved. Peters was a softball coach in the league.
 
 Several board members spoke to us on the condition of anonymity. They said that they have little or no access to information, such as meeting notifications, meeting minutes, financial information, or even the league's by-laws. According to board member Miller, when he asked for more details on the leagues business, he was asked to resign from the board.
 
