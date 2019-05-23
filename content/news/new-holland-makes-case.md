@@ -49,7 +49,7 @@ ORC 2921.12, Tampering with evidence reads:
 (B) Whoever violates this section is guilty of tampering with evidence, a felony of the third degree.
 </pre>
 
-At the time of the interview and text messages, Derek Myers was attempting to build a case against Jason Lawless, the Police Chief, related to telephone harassment by Landman. Betzko asserts that these text messages prove that Mick was attempting to tamper with the witness, and was conspiring against the Village of New Holland using illegal means long before Mick pressed charges against his bosses.
+At the time of the interview and text messages, Derek Myers was attempting to build a case against Jason Lawless, the Police Chief, related to telephone harassment by Landman. Betzko asserts that these text messages prove that Mick was attempting to tamper with the witness, and was conspiring against the Village of New Holland using illegal means long before Mick pressed charges against his bosses. See [this link](/news/new-holland-booklet) for photos of the unabridged text messages.
 
 ### Text Messages
 
@@ -78,7 +78,8 @@ Yes
 
 Write me a statement and it’ll be done.
 
-Mick: I’m telling you that if you write a statement that Jason was with you when calls were made and he allowed you to use his office to call. I will almost guarantee it will go away.
+I’m telling you that if you write a statement that Jason was with you when calls were made and he allowed you to use his office to call. I will almost guarantee it will go away.
+
 You want it to end? Let’s do it.
 
 Lawless or Conrad or anyone from NHPD will hurt you.
