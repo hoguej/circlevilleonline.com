@@ -17,6 +17,7 @@ On May 13th, 2019, the Village of New Holland’s council reviewed the terminati
 ----
 
 I hereby certify that effective immediately Charles Mick is suspended from the Village of New Holland police department. The suspension is for incompetence, failure to obey orders, gross neglect of duty, violation of [policies] and procedures of the New Holland Police department and insubordination. These charges stem from the following actions:
+
 1. Meeting with a person known to have charges pending in Pickaway County Municipal Court filed by Officer Mick.
 1. Meeting with a person of interest involved in an open investigation.
 1. Failure to inform his chain of command of the meeting.
@@ -104,5 +105,5 @@ According to witnesses, Mick asked no questions at the council hearing, presente
 
 In October of 2018, Mayor Betzko filed a civil complaint against Mick, a John Doe, and Jane Doe for defamation, malicious prosecution, false light, and abuse of process. Teresa Bayer and Karen Francis were later added as defendants on the legal action. The suit asks for damages to exceed $350k+ and attorney’s fees. The original complaint is attached.
 
-[Booklet Presented by New Holland at Mick hearing](/news/new-holland-booklet)
-[Butch Betzko's lawsuit against Mick and others](/news/new-holland-betzko-lawsuite)
+* [Booklet Presented by New Holland at Mick hearing](/news/new-holland-booklet)
+* [Butch Betzko's lawsuit against Mick and others](/news/new-holland-betzko-lawsuite)
