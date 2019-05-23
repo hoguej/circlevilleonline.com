@@ -3,10 +3,12 @@ title: "New Holland Booklet"
 date: 2016-05-22T21:00:00+00:00
 publishdate: 2016-05-22T21:00:00+00:00
 lastmod: 2016-05-22T21:00:00+00:00
-image: "/images/posts/nw_breaking_news.jpg"
+image: "/images/posts/nh_breaking_news.jpg"
 type: "post"
 comments: false
 ---
+## [Back to story](/news/new-holland-makes-case)
+
 ![](images/nh_booklet/00cover.jpg)
 ![](images/nh_booklet/page01.jpg)
 ![](images/nh_booklet/page02.jpg)

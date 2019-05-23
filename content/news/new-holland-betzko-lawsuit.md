@@ -3,10 +3,12 @@ title: "Betzko Lawsuit"
 date: 2016-05-22T21:00:00+00:00
 publishdate: 2016-05-22T21:00:00+00:00
 lastmod: 2016-05-22T21:00:00+00:00
-image: "/images/posts/nw_breaking_news.jpg"
+image: "/images/posts/nh_breaking_news.jpg"
 type: "post"
 comments: false
 ---
+## [Back to story](/news/new-holland-makes-case)
+
 ![](images/betzko_lawsuit/page01.jpg)
 ![](images/betzko_lawsuit/page02.jpg)
 ![](images/betzko_lawsuit/page03.jpg)

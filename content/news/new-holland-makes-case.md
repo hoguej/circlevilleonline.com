@@ -3,7 +3,7 @@ title: "New Holland makes case against fired officer"
 date: 2019-05-22T21:00:00+00:00
 publishdate: 2019-05-22T21:00:00+00:00
 lastmod: 2019-05-22T21:00:00+00:00
-image: "/images/posts/nw_breaking_news.jpg"
+image: "/images/posts/nh_breaking_news.jpg"
 type: "post"
 comments: false
 ---
@@ -106,4 +106,4 @@ According to witnesses, Mick asked no questions at the council hearing, presente
 In October of 2018, Mayor Betzko filed a civil complaint against Mick, a John Doe, and Jane Doe for defamation, malicious prosecution, false light, and abuse of process. Teresa Bayer and Karen Francis were later added as defendants on the legal action. The suit asks for damages to exceed $350k+ and attorney’s fees. The original complaint is attached.
 
 * [Booklet Presented by New Holland at Mick hearing](/news/new-holland-booklet)
-* [Butch Betzko's lawsuit against Mick and others](/news/new-holland-betzko-lawsuite)
+* [Butch Betzko's lawsuit against Mick and others](/news/new-holland-betzko-lawsuit)
