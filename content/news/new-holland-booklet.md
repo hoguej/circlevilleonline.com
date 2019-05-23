@@ -7,7 +7,8 @@ image: "/images/posts/nh_breaking_news.jpg"
 type: "post"
 comments: false
 ---
-## [Back to story](/news/new-holland-makes-case)
+
+## [< Back to story](/news/new-holland-makes-case)
 
 ![](images/nh_booklet/00cover.jpg)
 ![](images/nh_booklet/page01.jpg)
@@ -62,3 +63,5 @@ comments: false
 ![](images/nh_booklet/page50.jpg)
 ![](images/nh_booklet/page51.jpg)
 ![](images/nh_booklet/page52.jpg)
+
+## [< Back to story](/news/new-holland-makes-case)

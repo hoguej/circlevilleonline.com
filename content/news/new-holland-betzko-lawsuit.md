@@ -7,7 +7,8 @@ image: "/images/posts/nh_breaking_news.jpg"
 type: "post"
 comments: false
 ---
-## [Back to story](/news/new-holland-makes-case)
+
+## [< Back to story](/news/new-holland-makes-case)
 
 ![](images/betzko_lawsuit/page01.jpg)
 ![](images/betzko_lawsuit/page02.jpg)
@@ -22,3 +23,5 @@ comments: false
 ![](images/betzko_lawsuit/page11.jpg)
 ![](images/betzko_lawsuit/page12.jpg)
 ![](images/betzko_lawsuit/page13.jpg)
+
+## [< Back to story](/news/new-holland-makes-case)
