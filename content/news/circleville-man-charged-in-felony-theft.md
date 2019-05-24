@@ -11,7 +11,7 @@ comments: false
 
 CIRCLEVILLE - A Circleville man appeared in Circleville Municipal Court yesterday on a summons for a felony theft charge. Joshua Peters is the former treasurer of Circleville Girls Softball League Inc, and he's being accused of taking $8,882.75 between April 26, 2018 and April 22, 2019 over 45 bank card transactions.
 
-According to the police report, the investigation began when a former league member complained that there were irregularities in the league's finances. Mellissa Manson, a former league member, reported the league had $13,191 in income in 2017, but none was reported to the State of Ohio.
+According to the police report, the investigation began when a former league member complained that there were irregularities in the league's finances. Melissa Manson, a former league member, reported the league had $13,191 in income in 2017, but none was reported to the State of Ohio.
 
 According to the probable cause affidavit, board member Anothony Miller advised the police investigator that he'd been a board member of the non-profit for a year and never had access to any financial statements. Miller reported that the league does parking for Pumpkin Show and recieves substantial income from that fundraiser.
 
